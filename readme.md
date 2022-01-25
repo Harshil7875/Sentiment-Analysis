@@ -1,0 +1,2 @@
+### Sentiment Analysis Project
+This is my implementation of sentiment analysis using a Logistic Regression model that I have made from scratch. This project demonstrates how emotions can be recognised and classified into various sub-categories and further be used to draw useful insights.
